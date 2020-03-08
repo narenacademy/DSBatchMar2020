@@ -21,3 +21,4 @@ if (orderstatus == true)
 else
     print('your order is not placed as its out of stock')
 >>>>>>> 6690afd39111b44a6070f4467c17f7a43a76d001
+ttyt
