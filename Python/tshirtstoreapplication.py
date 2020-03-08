@@ -1,1 +1,2 @@
 takeorder()
+print'hi'
