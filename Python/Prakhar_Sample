@@ -1,1 +1,5 @@
-
+#Taking the input
+response=input('Please enter a word-')
+l=len(response)
+for i in response:
+  print (i)
